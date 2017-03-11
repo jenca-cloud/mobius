@@ -1,0 +1,26 @@
+{
+  "name": "mobius",
+  "version": "1.0.0",
+  "description": "Möbius is a visual programming environment for creating parametric scripts for generating geometric models.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phtj/mobius.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phtj/mobius/issues"
+  },
+  "homepage": "https://github.com/phtj/mobius#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
